@@ -1,0 +1,28 @@
+name: StellarCore
+version: 1.2
+main: com.stellar.plugin.Main
+author: Large
+commands: 
+  stellarc: 
+    description: Core command
+    aliases: [scc, stellarcore]
+  clearchat: 
+    description: Clears chat
+    aliases: [cc]
+    
+  mutechat:
+    description: Mutes chat for everyone except staff. 
+    
+  msgadmin:
+    description: Send a message to an online staff member. 
+    aliases: [adminhelp, staffhelp, msgstaff]
+  
+  staffbroadcast: 
+    description: Broadcast to all online staff
+    aliases: [scb, staffbc]
+  staffchatprefix: 
+    description: StaffPrefix utils
+    aliases: [staffprefix, sprefix, scprefix]
+  adminchatprefix: 
+    description: AdminPrefix utils
+    aliases: [adminprefix, aprefix, acprefix]

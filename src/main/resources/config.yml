@@ -1,0 +1,13 @@
+# Staff Chat Related: 
+
+StaffChatPrefix: '#'
+AdminChatPrefix: '!'
+
+StaffbroadcastSuffix: '!'
+
+
+JoinMessage: '&b %player% &6has joined the server!'
+LeaveMessage: '&b %player% &chas left the server...'
+
+#Whitelist
+WhitelistOnStart: true
